@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[V1.2.1 - Maverick Silens 2X Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS2XPROFILE/blob/ee5e535fe21bc66c4652f3d4800675b209111cfa/firmware/V1.2.1.zip)
+- Updated pan/tilt speed channel to acceleration channel
+- Updated fixture menu/display
+
 [V1.0.3.1 - Maverick Silens 2X Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS2XPROFILE/blob/63f8918458804c1b4250b4d2295edaab0e7b3a72/firmware/V1.0.3.1.zip)
 - Eliminates error where fixture is powered on and flashes green
 
