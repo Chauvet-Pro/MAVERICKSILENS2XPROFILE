@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.2.1 - Maverick Silens 2X Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS2XPROFILE/blob/ee5e535fe21bc66c4652f3d4800675b209111cfa/firmware/V1.2.1.zip)
+[V1.3 - Maverick Silens 2X Profile](https://github.com/Chauvet-Pro/MAVERICKSILENS2XPROFILE/blob/00e0b7a1f4906d116cb9132d3bd2b272a94196dc/firmware/V1.3.zip)
 - Updated pan/tilt speed channel to acceleration channel
 - Updated fixture menu/display
 
